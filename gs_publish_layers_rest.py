@@ -37,8 +37,8 @@ import json
 # Configuration
 geoserver_url = "https://coclico.avi.deltares.nl/geoserver/rest"
 auth = HTTPBasicAuth('admin', 'urx7L3ecZE27-M2k2WNuj7yzmxq-8k')
-workspace = "slr"
-style_name = "slr_style"
+workspace = "slp"
+style_name = "slp_style"
 
 
 #1. provide the collection.json
